@@ -5,6 +5,13 @@ Gallery
 
 GeoNetwork screenshots
 ----------------------
+Géoportail du CEBA
+Centre d’étude de la biodiversité amazonienne
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: vmcebagn-dev.ird.png
+
+http://vmcebagn-dev.ird.fr
 
 Dutch National Georegistry
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -34,13 +41,9 @@ List of known GeoNetwork opensource based catalogues. Send us an email if you wa
    * - .. Image:: http://www.fao.org/geonetwork/images/logos/fao.gif
      - FAO GeoNetwork - http://www.fao.org/geonetwork
        Food and Agriculture Organization of the United Nations GeoNetwork
-   * - Logo
-     - Description
    * - .. Image:: http://vmcebagn-dev.ird.fr/geonetwork/images/logos/vmcebagn-dev.ird.fr.gif
      - CEBA géoportail - http://vmcebagn-dev.ird.fr
        Labex CEBA Centre d’étude de la biodiversité amazonienne 
-   * - Logo
-     - Description
    * - .. Image:: http://vmamapgn-test.mpl.ird.fr/geonetwork/images/logos/vmamapgn-test.mpl.ird.fr.gif
      - AMAP géoportail - http://vmamapgn-test.mpl.ird.fr
        Géoportail de l'UMR AMAP botAnique et Modélisation de l’Architecture des Plantes et des végétations 

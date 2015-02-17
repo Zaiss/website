@@ -7,7 +7,7 @@ GeoNetwork screenshots
 ----------------------
 Géoportail du CEBA
 Centre d’étude de la biodiversité amazonienne
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 .. image:: vmcebagn-dev.ird.png
 

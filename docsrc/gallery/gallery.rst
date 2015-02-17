@@ -9,7 +9,7 @@ Géoportail du CEBA
 Centre d’étude de la biodiversité amazonienne
 
 
-.. image:: vmcebagn-dev.ird.png
+.. image:: vmcebagn-dev.ird.fr.png
 
 http://vmcebagn-dev.ird.fr
 
